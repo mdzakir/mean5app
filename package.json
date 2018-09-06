@@ -1,0 +1,24 @@
+{
+  "name": "mean2Auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "ngx-snackbar": "^1.2.0-rc.2",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "keywords": [],
+  "author": "Zakir Muhammad",
+  "license": "ISC"
+}
