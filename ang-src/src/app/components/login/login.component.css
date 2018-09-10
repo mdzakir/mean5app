@@ -1,0 +1,25 @@
+.form-login {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-login .checkbox {
+  font-weight: 400;
+}
+.form-login .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-login .form-control:focus {
+  z-index: 2;
+}
+.form-login input[type="email"], .form-register input[type="text"] {
+  margin-bottom: -1px;
+}
+.form-login .login-btn {
+  margin-top: 10px;
+}

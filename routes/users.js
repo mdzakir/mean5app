@@ -24,6 +24,7 @@ router.post('/register', (req, res, next) => {
   });
 });
 
+
 // Authenticate Route
 router.post('/authenticate', (req, res, next) => {
   //res.send('AUTHENTICATE');

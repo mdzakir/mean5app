@@ -1,0 +1,21 @@
+<h3>Write a post</h3>
+<form action="" class="well" (submit)="onPostSubmit()">
+  <textarea placeholder="Start writing..." class="form-control" [(ngModel)]="postText" name="postText" id="" cols="30" rows="5"></textarea>
+
+  <div class="">
+    <input type="text" [(ngModel)]="tags" name="tags" class="form-control" placeholder="Tags... Coffee, Cloudy, breeze" />
+  </div>
+  <div class="post-controls row">
+    <div class="col-md-6">
+      <label><input
+        [ngModelOptions]="{standalone: true}"
+        name="commentsEnabled"
+        [(ngModel)]="commentsEnabled"
+        type="checkbox"
+      /> Comments Enabled?</label>
+    </div>
+    <div class="col-md-6" style="text-align: right;">
+      <button type="submit" style="margin-top:10px;" class="btn btn-success">Post <i class="glyphicon glyphicon-send"></i></button>
+    </div>
+  </div>
+</form>

@@ -21,7 +21,12 @@ mongoose.connection.on('error', (err) => {
 
 const app = express();
 const users = require('./routes/users');
-const port = process.env.PORT || 8080;
+const posts = require('./routes/posts');
+
+// Local machine
+const port = 3000;
+
+//const port = process.env.PORT || 8080;
 
 // CORS Middleware
 app.use(cors());
@@ -38,6 +43,7 @@ require('./config/passport')(passport);
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/users', users);
+app.use('/posts', posts);
 
 app.get('/', (req, res) => {
   res.send('Invalid Endpoint');

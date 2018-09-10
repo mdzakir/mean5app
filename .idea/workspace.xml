@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d764350e-20c9-441f-a5a7-9f2c522972b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="994182030">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/architect/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/architect/test/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/build-angular/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/build-optimizer/node_modules/typescript/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/build-optimizer/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/build-optimizer/webpack-loader/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/build-webpack/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/core/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular-devkit/schematics/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/animations/browser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/animations/browser/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/animations/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/cli/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/cli/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/cli/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/common/http/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/common/http/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/common/locales/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/common/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/common/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler-cli/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/compiler/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/core/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/core/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/forms/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/http/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/http/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/language-service/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/platform-browser-dynamic/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/platform-browser-dynamic/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/platform-browser/animations/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/platform-browser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/platform-browser/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/router/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/router/testing/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@angular/router/upgrade/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/code-frame/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/generator/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/generator/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/helper-split-export-declaration/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/highlight/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/template/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/traverse/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/traverse/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/traverse/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/types/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@babel/types/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@types/jasmine/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@types/jasminewd2/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@types/q/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@types/selenium-webdriver/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/ast/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/ast/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/floating-point-hex-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-buffer/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-fsm/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-wasm-section/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/helper-wasm-section/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/leb128/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/validation/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wasm-edit/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wasm-edit/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wasm-gen/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wasm-opt/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wasm-opt/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wasm-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wast-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/@webassemblyjs/wast-printer/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/adm-zip/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ajv-errors/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ansi-colors/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/app-root-path/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/array-slice/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/codelyzer/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/connect/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/connect/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/copy-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/default-gateway/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/del/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/del/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/dom-serialize/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/escodegen/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/execa/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/file-loader/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/fileset/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/handlebars/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/handlebars/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/html-webpack-plugin/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/html-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-api/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-api/node_modules/istanbul-lib-coverage/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-api/node_modules/istanbul-lib-instrument/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-api/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-lib-source-maps/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-lib-source-maps/node_modules/istanbul-lib-coverage/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-lib-source-maps/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-lib-source-maps/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul-reports/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/istanbul/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine-core/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine-spec-reporter/examples/node/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine-spec-reporter/examples/protractor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine-spec-reporter/examples/typescript/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine-spec-reporter/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine/node_modules/jasmine-core/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jasmine/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jszip/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jszip/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jszip/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jszip/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jszip/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/jszip/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma-chrome-launcher/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma-coverage-istanbul-reporter/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma-jasmine-html-reporter/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/karma/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/less/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/less/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/less/test/import-module/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/meow/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/mini-css-extract-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/mini-css-extract-plugin/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-libs-browser/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/node-sass/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/npm-package-arg/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/npm-registry-client/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/postcss-loader/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/postcss-url/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/pretty-error/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/exampleTypescript/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/webdriver-manager/built/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/node_modules/webdriver-manager/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/protractor/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/read-pkg-up/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/read-pkg-up/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/read-pkg/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/read-pkg/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/rxjs/ajax/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/rxjs/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/rxjs/operators/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sass-graph/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sass-graph/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sass-graph/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sass-graph/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sass-graph/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/selenium-webdriver/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/selenium-webdriver/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stdout-stream/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/style-loader/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stylus-loader/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stylus/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stylus/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/stylus/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/true-case-path/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ts-node/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ts-node/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tslint/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tsutils/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/typescript/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglifyjs-webpack-plugin/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglifyjs-webpack-plugin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglifyjs-webpack-plugin/node_modules/uglify-es/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uglifyjs-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url-join/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url-loader/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url-loader/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/useragent/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/util.promisify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/validate-npm-package-name/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webassemblyjs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webdriver-js-extender/built/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webdriver-js-extender/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-core/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-core/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-core/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-middleware/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/cliui/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-log/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-merge/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack-subresource-integrity/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/when/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/wtf-8/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xml2js/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xml2js/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xmlbuilder/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xregexp/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/xxhashjs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/yn/package.json" />
+      <path value="$PROJECT_DIR$/ang-src/node_modules/zone.js/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="42" />
+    <option name="y" value="-11" />
+    <option name="width" value="1325" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mean5app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mean5app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d764350e-20c9-441f-a5a7-9f2c522972b2" name="Default Changelist" comment="" />
+      <created>1536598568808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536598568808</updated>
+      <workItem from="1536598571134" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="-11" width="1325" height="780" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ang-src/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+</project>

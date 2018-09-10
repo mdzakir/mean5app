@@ -1,0 +1,13 @@
+<h3>My Posts</h3>
+
+<div class="posts-container">
+  <div class="panel panel-default" *ngFor="let post of postList">
+    <div class="panel-body">
+      <p class="card-text">{{post.postText}}</p>
+    </div>
+    <div class="panel-footer text-muted" style="display: flex;">
+      <span class="card-subtitle mb-2 text-muted">{{post.tags}}</span>
+      <a  href="#" class="card-link" style="align-items: end;">Comments</a>
+    </div>
+  </div>
+</div>
