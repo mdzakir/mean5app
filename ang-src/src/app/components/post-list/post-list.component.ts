@@ -15,7 +15,10 @@ export class PostListComponent implements OnInit {
   ) { }
 
   ngOnInit() {
-    this.getPosts();
+      this.authService.listPostSubject.subscribe( (value) => {
+          this.getPosts();
+      });
+      this.getPosts();
   }
 
   getPosts(){

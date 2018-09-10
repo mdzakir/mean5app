@@ -38,6 +38,7 @@ export class CreatePostComponent implements OnInit {
     this.authService.savePost(post).subscribe( (data:any) => {
       if(data.success){
         this.toastr.success('Posted successfully!');
+          this.authService.listPostSubject.next("postAdded");
       } else {
         this.toastr.error('Something went wrong!');
       }

@@ -3,7 +3,7 @@ import {HttpClient, HttpHeaders} from '@angular/common/http';
 import { JwtHelperService } from '@auth0/angular-jwt';
 import {configProperties} from '../config.properties';
 const helper = new JwtHelperService();
-
+import { Subject } from "rxjs";
 
 @Injectable({
   providedIn: 'root'
@@ -11,6 +11,7 @@ const helper = new JwtHelperService();
 export class AuthService {
   authToken: any;
   user: any;
+  public listPostSubject : Subject<any> = new Subject();
 
   constructor(private _http: HttpClient) { }
 
