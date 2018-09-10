@@ -15,15 +15,6 @@ export class PostListComponent implements OnInit {
   ) { }
 
   ngOnInit() {
-    /*this.authService.getPosts().subscribe((post: any) => {
-        console.log('post', post);
-        this.postList = post;
-      },
-      err => {
-        console.log(err);
-        return false;
-      });*/
-
     this.getPosts();
   }
 
@@ -31,7 +22,6 @@ export class PostListComponent implements OnInit {
     this.authService.getPosts()
       .subscribe(posts => {
         this.postList = posts;
-        console.log(posts);
       });
   }
 
